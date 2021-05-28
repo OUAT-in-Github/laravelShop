@@ -7,7 +7,7 @@
             <th scope="col">XX</th>
             <th scope="col">Name</th>
             <th scope="col">Phone</th>
-            <th scope="col">Email</th>
+            <th scope="col">hamza</th>
             <th scope="col">Opertions</th>
             <th scope="col">tst github</th>
         </tr>
