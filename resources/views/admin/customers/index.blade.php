@@ -9,6 +9,7 @@
             <th scope="col">Phone</th>
             <th scope="col">Email</th>
             <th scope="col">Opertions</th>
+            <th scope="col">tst github</th>
         </tr>
     </thead>
     <tbody>
